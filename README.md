@@ -1,6 +1,6 @@
 # python-fizzbuzz
 
-Create a program which does the following, and then save and submit the URL of your Repl.it project:
+Create a program which does the following:
 
 - For each number from 1-100, the program prints the number (using print)
 - If the number is evenly divisible by 3, the program also prints "fizz"
